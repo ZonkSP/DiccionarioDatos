@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1636066706 source:c:\users\26705\desktop\lp\3er parcial\diccionario\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1636066683 c:\users\26705\desktop\lp\3er parcial\diccionario\include\cdiccionario.h
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+
+1636066721 source:c:\users\26705\desktop\lp\3er parcial\diccionario\main.cpp
+	"include/CDiccionario.h"
+
+1636494267 source:c:\cursos\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1636497966 c:\cursos\diccionarioult\include\cdiccionario.h
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+
+1636493847 source:c:\cursos\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1637600722 source:c:\users\fam_p\documents\romina\uaslp\lenguajes de programación\segundo semestre\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1637620496 c:\users\fam_p\documents\romina\uaslp\lenguajes de programación\segundo semestre\diccionarioult\include\cdiccionario.h
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+
+1637619089 source:c:\users\fam_p\documents\romina\uaslp\lenguajes de programación\segundo semestre\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1638664961 source:c:\users\romin\onedrive\documentos\romina\uaslp\diccionarioult\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1638664695 c:\users\romin\onedrive\documentos\romina\uaslp\diccionarioult\diccionarioult\include\cdiccionario.h
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+
+1638666324 source:c:\users\romin\onedrive\documentos\romina\uaslp\diccionarioult\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1638772675 source:c:\users\an_ge\desktop\uni\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1638825353 c:\users\an_ge\desktop\uni\diccionarioult\include\cdiccionario.h
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+
+1638826694 source:c:\users\an_ge\desktop\uni\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1638905168 source:c:\users\romin\onedrive\documentos\diccionario codigo\elcodigoagain\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1638907099 c:\users\romin\onedrive\documentos\diccionario codigo\elcodigoagain\diccionarioult\include\cdiccionario.h
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<string>
+	<sstream>
+
+1638903146 source:c:\users\romin\onedrive\documentos\diccionario codigo\elcodigoagain\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1638905170 source:c:\users\an_ge\desktop\uni\zonk\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1638909020 c:\users\an_ge\desktop\uni\zonk\diccionarioult\include\cdiccionario.h
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<string>
+	<sstream>
+
+1638913209 source:c:\users\an_ge\desktop\uni\zonk\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1638918468 source:c:\users\romin\onedrive\documentos\codigo final\diccionarioult\diccionarioult\main.cpp
+	"include/CDiccionario.h"
+
+1638918468 c:\users\romin\onedrive\documentos\codigo final\diccionarioult\diccionarioult\include\cdiccionario.h
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<string>
+	<sstream>
+
+1639019453 source:c:\users\romin\onedrive\documentos\codigo final\diccionarioult\diccionarioult\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1639019454 source:c:\users\an_ge\desktop\uni\zonk\uaslp 3\lenguajes_de_programacion\proyecto diccionario\diccionario\src\cdiccionario.cpp
+	"..\include\CDiccionario.h"
+
+1695144231 c:\users\an_ge\desktop\uni\zonk\uaslp 3\lenguajes_de_programacion\proyecto diccionario\diccionario\include\cdiccionario.h
+	<conio.h>
+	<stdlib.h>
+	<iostream>
+	<unistd.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<iomanip>
+	<string>
+	<sstream>
+
+1695144189 source:c:\users\an_ge\desktop\uni\zonk\uaslp 3\lenguajes_de_programacion\proyecto diccionario\diccionario\main.cpp
+	"include/CDiccionario.h"
+
